@@ -51,19 +51,13 @@ Library.prototype.get = function(ratio){
 
 function buildLibrary(){
 	var library = new Library();
-	library.add(new Image(square, "http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/JohnStamosHWoFFeb2012.jpg/220px-JohnStamosHWoFFeb2012.jpg"));
-	library.add(new Image(wide, "http://media2.s-nbcnews.com/j/streams/2013/August/130819/6C8670836-6c8284491-130716-john-stamos.blocks_desktop_small.jpg"));
-	library.add(new Image(tall, "http://blogs.babble.com/famecrawler/files/2010/11/45423PCN_Smile05.jpg"));
-	library.add(new Image(tall, "http://ia.media-imdb.com/images/M/MV5BMTQxOTI1MDcxNV5BMl5BanBnXkFtZTcwMjEwNDgxNw@@._V1_SY317_CR16,0,214,317_.jpg"));
-	library.add(new Image(wide, "http://images6.fanpop.com/image/photos/32800000/John-Stamos-john-stamos-32853900-1024-768.png"));
-	library.add(new Image(tall, "http://assets-s3.usmagazine.com/uploads/assets/articles/64632-john-stamos-to-reunite-with-full-house-band-jesse-and-the-rippers-on-jimmy-fallo/1374005728_109418050_john-stamos-467.jpg"));
-	library.add(new Image(square, "http://upload.wikimedia.org/wikipedia/en/c/c9/JohnStamos-ER.jpg"));
-	library.add(new Image(wide, "http://images6.fanpop.com/image/photos/32800000/John-Stamos-john-stamos-32853900-1024-768.png"));
-	library.add(new Image(wide, "http://i.huffpost.com/gen/1373206/thumbs/n-JOHN-STAMOS-large570.jpg?6"));
-	library.add(new Image(wide, "http://www.1015theeagle.com/stationimages/blogimages/John-Stamos-Ross-Schultz-5552134.jpg"));
-	library.add(new Image(square, "http://www.sitcomsonline.com/photopost/data/2298/Shirtless-John-Stamos.jpg"));
-	library.add(new Image(wide, "http://cdn01.cdn.justjared.com/wp-content/uploads/2008/02/stamos-shirtless/john-stamos-shirtless-03.jpg"));
-	library.add(new Image(tall, "http://singleblink.files.wordpress.com/2012/06/stamos.jpg"));
+	library.add(new Image(tall, "http://i.imgur.com/PPSqBwE.jpg"));
+	library.add(new Image(tall, "http://i.imgur.com/elXT8LR.jpg"));
+	library.add(new Image(square, "http://i.imgur.com/w53Cwpv.jpg"));
+	library.add(new Image(square, "http://i.imgur.com/aWXVOgX.jpg"));
+	library.add(new Image(wide, "http://i.imgur.com/2f0Ovbs.jpg"));
+	library.add(new Image(wide, "http://i.imgur.com/XTnnNbO.jpg"));
+	library.add(new Image(wide, "http://i.imgur.com/sbrdQNt.jpg"));
 	return library;
 }
 
